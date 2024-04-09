@@ -1,0 +1,110 @@
+2024-04-05 02:08:10,069:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-05 02:08:10,070:INFO:[33mPress CTRL+C to quit[0m
+2024-04-05 02:28:08,198:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-05 02:28:08,199:INFO:[33mPress CTRL+C to quit[0m
+2024-04-05 02:45:30,364:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-05 02:45:30,365:INFO:[33mPress CTRL+C to quit[0m
+2024-04-05 03:43:01,804:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-05 03:43:01,805:INFO:[33mPress CTRL+C to quit[0m
+2024-04-05 10:25:13,529:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-05 10:25:13,530:INFO:[33mPress CTRL+C to quit[0m
+2024-04-05 17:04:02,890:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-05 17:04:02,891:INFO:[33mPress CTRL+C to quit[0m
+2024-04-05 23:20:33,181:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-05 23:20:33,182:INFO:[33mPress CTRL+C to quit[0m
+2024-04-05 23:26:01,951:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-05 23:26:01,952:INFO:[33mPress CTRL+C to quit[0m
+2024-04-05 23:26:01,953:INFO: * Restarting with stat
+2024-04-05 23:26:03,819:WARNING: * Debugger is active!
+2024-04-05 23:26:03,821:INFO: * Debugger PIN: 118-990-085
+2024-04-05 23:36:39,640:INFO:127.0.0.1 - - [05/Apr/2024 23:36:39] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-05 23:36:40,246:INFO:127.0.0.1 - - [05/Apr/2024 23:36:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-05 23:36:42,755:INFO:127.0.0.1 - - [05/Apr/2024 23:36:42] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-05 23:36:43,858:INFO:127.0.0.1 - - [05/Apr/2024 23:36:43] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-05 23:39:45,553:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-05 23:39:45,554:INFO:[33mPress CTRL+C to quit[0m
+2024-04-05 23:40:16,294:INFO:127.0.0.1 - - [05/Apr/2024 23:40:16] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-05 23:40:18,890:INFO:127.0.0.1 - - [05/Apr/2024 23:40:18] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-05 23:40:19,816:INFO:127.0.0.1 - - [05/Apr/2024 23:40:19] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-05 23:40:24,828:INFO:127.0.0.1 - - [05/Apr/2024 23:40:24] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-05 23:40:49,208:INFO:127.0.0.1 - - [05/Apr/2024 23:40:49] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-06 15:58:56,897:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-06 15:58:56,897:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 15:59:17,238:INFO:127.0.0.1 - - [06/Apr/2024 15:59:17] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-06 15:59:17,988:INFO:127.0.0.1 - - [06/Apr/2024 15:59:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 16:07:40,197:INFO:127.0.0.1 - - [06/Apr/2024 16:07:40] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-06 16:07:41,065:INFO:127.0.0.1 - - [06/Apr/2024 16:07:41] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-06 16:07:41,620:INFO:127.0.0.1 - - [06/Apr/2024 16:07:41] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-06 16:26:26,448:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-06 16:26:26,456:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 16:27:19,721:INFO:127.0.0.1 - - [06/Apr/2024 16:27:19] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-06 16:27:19,732:INFO:127.0.0.1 - - [06/Apr/2024 16:27:19] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-06 16:27:21,577:INFO:127.0.0.1 - - [06/Apr/2024 16:27:21] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-06 16:27:21,921:INFO:127.0.0.1 - - [06/Apr/2024 16:27:21] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-06 19:07:42,623:INFO:127.0.0.1 - - [06/Apr/2024 19:07:42] "[33mGET / HTTP/1.1[0m" 404 -
+2024-04-07 17:44:32,612:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.25.242.60:8080
+2024-04-07 17:44:32,613:INFO:[33mPress CTRL+C to quit[0m
+2024-04-07 17:45:28,851:INFO:127.0.0.1 - - [07/Apr/2024 17:45:28] "GET / HTTP/1.1" 200 -
+2024-04-07 17:45:29,044:INFO:127.0.0.1 - - [07/Apr/2024 17:45:29] "GET /static/style.css HTTP/1.1" 200 -
+2024-04-07 17:45:29,087:INFO:127.0.0.1 - - [07/Apr/2024 17:45:29] "GET /static/script.js HTTP/1.1" 200 -
+2024-04-07 17:45:29,335:INFO:127.0.0.1 - - [07/Apr/2024 17:45:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-07 17:45:38,302:INFO:127.0.0.1 - - [07/Apr/2024 17:45:38] "GET / HTTP/1.1" 200 -
+2024-04-07 17:45:38,378:INFO:127.0.0.1 - - [07/Apr/2024 17:45:38] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-04-07 17:45:38,387:INFO:127.0.0.1 - - [07/Apr/2024 17:45:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-04-07 17:45:41,341:INFO:127.0.0.1 - - [07/Apr/2024 17:45:41] "GET /traffic-visualization HTTP/1.1" 200 -
+2024-04-07 17:45:41,430:INFO:127.0.0.1 - - [07/Apr/2024 17:45:41] "GET /static/traffic-visualization.css HTTP/1.1" 200 -
+2024-04-07 17:45:41,431:INFO:127.0.0.1 - - [07/Apr/2024 17:45:41] "GET /static/traffic-visualization.js HTTP/1.1" 200 -
+2024-04-07 17:45:45,906:INFO:127.0.0.1 - - [07/Apr/2024 17:45:45] "GET /Traffic_Monitoring HTTP/1.1" 200 -
+2024-04-07 17:45:46,015:INFO:127.0.0.1 - - [07/Apr/2024 17:45:46] "GET /static/traffic_monitoring.css HTTP/1.1" 200 -
+2024-04-07 17:45:46,020:INFO:127.0.0.1 - - [07/Apr/2024 17:45:46] "GET /static/traffic_monitoring.js HTTP/1.1" 200 -
+2024-04-07 17:46:05,479:INFO:127.0.0.1 - - [07/Apr/2024 17:46:05] "GET /traffic-visualization HTTP/1.1" 200 -
+2024-04-07 17:46:05,602:INFO:127.0.0.1 - - [07/Apr/2024 17:46:05] "[36mGET /static/traffic-visualization.js HTTP/1.1[0m" 304 -
+2024-04-07 17:46:05,604:INFO:127.0.0.1 - - [07/Apr/2024 17:46:05] "[36mGET /static/traffic-visualization.css HTTP/1.1[0m" 304 -
+2024-04-07 17:46:15,146:INFO:127.0.0.1 - - [07/Apr/2024 17:46:15] "GET /Traffic_Monitoring HTTP/1.1" 200 -
+2024-04-07 17:46:15,257:INFO:127.0.0.1 - - [07/Apr/2024 17:46:15] "[36mGET /static/traffic_monitoring.css HTTP/1.1[0m" 304 -
+2024-04-07 17:46:15,261:INFO:127.0.0.1 - - [07/Apr/2024 17:46:15] "[36mGET /static/traffic_monitoring.js HTTP/1.1[0m" 304 -
+2024-04-07 17:46:19,595:INFO:127.0.0.1 - - [07/Apr/2024 17:46:19] "GET /attack-report-html HTTP/1.1" 200 -
+2024-04-07 17:46:19,692:INFO:127.0.0.1 - - [07/Apr/2024 17:46:19] "GET /static/report.js HTTP/1.1" 200 -
+2024-04-07 17:46:19,693:INFO:127.0.0.1 - - [07/Apr/2024 17:46:19] "GET /static/report.css HTTP/1.1" 200 -
+2024-04-07 17:46:21,353:ERROR:Exception on /attack-report [GET]
+Traceback (most recent call last):
+  File "/home/anila/miniconda3/envs/flask_env/lib/python3.11/site-packages/flask/app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/anila/miniconda3/envs/flask_env/lib/python3.11/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/anila/miniconda3/envs/flask_env/lib/python3.11/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/home/anila/miniconda3/envs/flask_env/lib/python3.11/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/anila/miniconda3/envs/flask_env/lib/python3.11/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/PMLS/Documents/GitHub/ddos/DDOS/app.py", line 404, in attack_report
+    df['timestamp'] = pd.to_datetime(df['timestamp'])
+                                     ~~^^^^^^^^^^^^^
+  File "/home/anila/miniconda3/envs/flask_env/lib/python3.11/site-packages/pandas/core/frame.py", line 4090, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/anila/miniconda3/envs/flask_env/lib/python3.11/site-packages/pandas/core/indexes/range.py", line 417, in get_loc
+    raise KeyError(key)
+KeyError: 'timestamp'
+2024-04-07 17:46:21,377:INFO:127.0.0.1 - - [07/Apr/2024 17:46:21] "[35m[1mGET /attack-report HTTP/1.1[0m" 500 -
+2024-04-07 17:46:27,415:INFO:127.0.0.1 - - [07/Apr/2024 17:46:27] "GET /alert HTTP/1.1" 200 -
